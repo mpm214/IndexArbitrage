@@ -29,6 +29,7 @@ Specify parameters and file names in the main.py then run the main.py file.
 
 ![image](https://github.com/user-attachments/assets/c88a3810-5023-4ce8-b1cf-e18a130d92cb)
 
+![image](https://github.com/user-attachments/assets/8df20034-f4ee-4353-88f5-6fdde9cd973d)
 
 
 
