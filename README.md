@@ -67,4 +67,6 @@ Specify parameters and file names in the main.py then run the main.py file.
 
 ![image](https://github.com/user-attachments/assets/381e7b47-b99d-4fc1-8a80-faa2a76abb89)
 
+![image](https://github.com/user-attachments/assets/6b0add6c-55c2-42d4-b040-c606afc843b8)
+
 
