@@ -62,3 +62,5 @@ Clone or download this repository, then navigate to the project directory.
 Specify parameters and file names in the main.py then run the main.py file. 
 
 ### Results
+
+![image](https://github.com/user-attachments/assets/b6f63abf-78b9-4de7-80da-30de856ccf89)
