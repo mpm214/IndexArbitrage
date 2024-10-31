@@ -31,7 +31,7 @@ Specify parameters and file names in the main.py then run the main.py file.
 
 ![image](https://github.com/user-attachments/assets/8df20034-f4ee-4353-88f5-6fdde9cd973d)
 
-
+![image](https://github.com/user-attachments/assets/9efab717-e17c-4e3e-afbe-12b3c819158d)
 
 
 ---
