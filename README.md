@@ -64,3 +64,7 @@ Specify parameters and file names in the main.py then run the main.py file.
 ### Results
 
 ![image](https://github.com/user-attachments/assets/b6f63abf-78b9-4de7-80da-30de856ccf89)
+
+![image](https://github.com/user-attachments/assets/381e7b47-b99d-4fc1-8a80-faa2a76abb89)
+
+
